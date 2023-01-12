@@ -2,3 +2,9 @@
     background-repeat: no-repeat;
     background-size: 100%;
 }
+#more{
+    display: none;
+}
+.rounded-circle{
+    margin: 0 auto;
+}
