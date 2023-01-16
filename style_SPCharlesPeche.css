@@ -1,0 +1,22 @@
+html,
+body{
+    height: 100%;
+}
+
+.bg-image{
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#more{
+    display: none;
+}
+.rounded-circle{
+    margin: 0 auto;
+}
+.evenements{
+    text-align:center;
+}
+.text1{
+    text-decoration: underline;
+    color: #0000ff;
+}
